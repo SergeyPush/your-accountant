@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/isolated-monochrome-white.6b277b8c.svg"
   },
   {
-    "revision": "bb9a1b3fbff9e90f28a1c574ff639ca1",
+    "revision": "e7e35e60dedcdcd44626d3f475eebb49",
     "url": "/index.html"
   },
   {
